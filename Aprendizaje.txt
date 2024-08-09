@@ -1,0 +1,7 @@
+-El Comando "df -h" sirve para ver los nombres de los discos que tenes.
+-Comando para montar y desmontar un USB: Mount y Umount.
+-Cuando el usb esta ocupado, para saber que es lo que esta usando, se debe poner el comando "Fuser -m" y la ruta del usb.
+-para eliminar lo que esta haciendo el USB se debe poner el comando "Kill -9" y poner el numero de lo que esta haciendo.
+
+-Para usar Metasploit hay qu arrancar con el comando "msfconsole". 
+
