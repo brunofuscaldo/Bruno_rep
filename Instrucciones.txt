@@ -1,0 +1,5 @@
+El orden para agregar algo:
+-git add .
+-git commit -m "algo"
+-git pull --no-rebase
+-git push
